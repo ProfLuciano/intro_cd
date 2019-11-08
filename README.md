@@ -13,9 +13,7 @@ e análise de exploratório dos dados.
 2. Aquisição de dados online
 3. Utilização de data frames (Pandas)
 4. Estatísticas descritivas
-5. Pré-processamento
-  1. Limpeza (detecção de outliers)
-  2. Normalização e imputação etc
+5. Pré-processamento: limpeza (detecção de outliers), normalização e imputação etc
 
 
 ### Bibliografia
