@@ -1,19 +1,10 @@
 data,aula
-<<<<<<< HEAD
 2021-10-05,<a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/slides/aula1_intro.pdf">Introdução à Ciência dos Dados</a>
-2019-10-05,<a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/slides/aula2_dados.pdf">Obtenção de Dados e Dados Colunares</a> | <a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/notebooks/column-oriented-processing.ipynb">Notebook</a>
-2019-10-07,<a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/slides/aula3_stats_descr.pdf">Estatísticas Descritivas</a> | <a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/notebooks/stats_desc.ipynb">Notebook</a>
-2019-10-07,<a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/slides/pre_proc1.pdf">Pré-processamento de Dados: Normalização e imputação etc </a> | <a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/notebooks/pre_processamento1.ipynb"> Notebook </a>
-2019-10-08,<a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/slides/pre_proc2.pdf">Pré-processamento: Limpeza (detecção de outliers) </a> | <a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/notebooks/pre_processamento2.ipynb"> Notebook </a>
-2019-10-08,<a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/slides/projeto1.pdf"> Projeto </a>
-2019-10-13,Acompanhamento
-2019-10-14,Acompanhamento
-2019-10-15,Acompanhamento
-=======
-2019-11-29,<a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/slides/aula1_intro.pdf">Introdução à Ciência dos Dados</a>
-2019-11-29,<a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/slides/aula2_dados.pdf">Obtenção de Dados e Dados Colunares</a> | <a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/notebooks/column-oriented-processing.ipynb">Notebook</a>
-2019-11-29,<a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/slides/aula3_stats_descr.pdf">Estatísticas Descritivas</a> | <a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/notebooks/stats_desc.ipynb">Notebook</a>
-2019-11-30,<a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/slides/pre_proc1.pdf">Pré-processamento de Dados: Normalização e imputação etc </a> | <a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/notebooks/pre_processamento1.ipynb"> Notebook </a>
-2019-11-30,<a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/slides/pre_proc2.pdf">Pré-processamento: Limpeza (detecção de outliers) </a> | <a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/notebooks/pre_processamento2.ipynb"> Notebook </a>
-2019-11-30,<a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/slides/projeto1.pdf"> Projeto </a> | <a href="https://docs.google.com/spreadsheets/d/16qf5SRIwcehngPb3S0WNiUllm0556jPMnTezYahZmTY/edit?usp=sharing"> Planilha de grupos</a>
->>>>>>> 130b92d33280d3ae7e2e1f34e435b21f8e3a8025
+2021-10-05,<a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/slides/aula2_dados.pdf">Obtenção de Dados e Dados Colunares</a> | <a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/notebooks/column-oriented-processing.ipynb">Notebook</a>
+2021-10-07,<a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/slides/aula3_stats_descr.pdf">Estatísticas Descritivas</a> | <a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/notebooks/stats_desc.ipynb">Notebook</a>
+2021-10-07,<a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/slides/pre_proc1.pdf">Pré-processamento de Dados: Normalização e imputação etc </a> | <a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/notebooks/pre_processamento1.ipynb"> Notebook </a>
+2021-10-08,<a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/slides/pre_proc2.pdf">Pré-processamento: Limpeza (detecção de outliers) </a> | <a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/notebooks/pre_processamento2.ipynb"> Notebook </a>
+2021-10-08,<a href="https://github.com/ProfLuciano/intro_cd/blob/gh-pages/slides/projeto1.pdf"> Projeto </a>
+2021-10-13,Acompanhamento
+2021-10-14,Acompanhamento
+2021-10-15,Acompanhamento
